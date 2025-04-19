@@ -61,9 +61,10 @@ Feel free to fork, star ⭐, or open issues if you'd like to discuss or improve 
 
 ## 🔗 Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-osama-21462428a/))  
-- [GitHub]([https://github.com/yourusername](https://github.com/M0hamedOsama))
-- [Kaggle]([https://github.com/yourusername](https://www.kaggle.com/mohamedelnahry))
+- [LinkedIn]([https://www.linkedin.com/in/mohamed-osama-21462428a])  
+- [GitHub]([[https://github.com/M0hamedOsama])
+- [Kaggle]([https://github.com/mohamedelnahry])
+
 
 ---
 
